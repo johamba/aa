@@ -1,1 +1,3 @@
-alert(selamawit1);
+
+alert(selamawit2);
+
