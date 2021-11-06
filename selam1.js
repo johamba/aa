@@ -1,1 +1,1 @@
-cos=nsole.log("selam);
+console.log("selam);
