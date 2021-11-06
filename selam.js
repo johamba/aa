@@ -1,0 +1,1 @@
+cos=nsole.log("selam);
