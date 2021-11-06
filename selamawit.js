@@ -1,3 +1,3 @@
 
-alert(selamawit2);
+alert(selamawit updated from selam);
 
